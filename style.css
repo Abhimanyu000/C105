@@ -1,0 +1,22 @@
+body {
+    background-color: dodgerblue;
+    color: rgba(231, 21, 21, 0.976);
+}
+
+.titleofmaybeimgrecognitionsoftwarebetaalphasomething {
+    width: 30%;
+    font-size: medium;
+    color: rgba(231, 21, 21, 0.976);
+    font-weight: 500;
+}
+
+.boldtags, #objectresultinthiswebpage, #objectnameinthiswebpage {
+    color: black;
+    font-family: cursive;
+}
+
+#camera {
+    width: 350px;
+    height: 350px;
+    border: 1px rgb(94, 0, 0) solid;
+}
